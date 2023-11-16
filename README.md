@@ -19,6 +19,7 @@ Ovdje će biti upute vezane za objavu sadržaja na GitHub repozitoriju.
 
 # Dodatne informacije o projektu
 Ovo su dodatne informacije o GitHub projektu!
+[hello-world-projekt](hello-world-projekt.md)
 
 # Stranica
 [Poveznica na stranicu](https://klaramarcec.github.io/hello-world/)
